@@ -1,2 +1,19 @@
 # Canvas-Particle-Network
-O **Canvas Particle Network** é uma animação interativa que usa o elemento `&lt;canvas>` do HTML5 para criar partículas que se movem aleatoriamente e se conectam com linhas quando estão próximas. As partículas podem reagir ao movimento do mouse, criando um efeito dinâmico e fluido, ideal para sites modernos e interativos.
+
+O **Canvas Particle Network** é uma animação interativa que utiliza o elemento `<canvas>` do HTML5 para criar partículas que se movem aleatoriamente e se conectam com linhas quando estão próximas. Este projeto proporciona uma experiência visual dinâmica, reagindo ao movimento do mouse, tornando-o ideal para sites modernos e interativos.
+
+## Recursos
+
+- **Animação de partículas**: Partículas se movem aleatoriamente pela tela.
+- **Interatividade**: As partículas reagem ao movimento do mouse, criando uma experiência imersiva.
+- **Conexões visuais**: Linhas são desenhadas entre partículas próximas, reforçando a estética da rede.
+
+## Imagem de Demonstração
+
+![Canvas Particle Network](https://github.com/tonyn258/Canvas-Particle-Network-Com-login/issues/1#issue-2554168153)
+
+## Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/tonyn258/Canvas-Particle-Network.git
