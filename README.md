@@ -10,7 +10,8 @@ O **Canvas Particle Network** é uma animação interativa que utiliza o element
 
 ## Imagem de Demonstração
 
-![Canvas Particle Network](https://github.com/tonyn258/Canvas-Particle-Network-Com-login/issues/1#issue-2554168153)
+
+![Canvas Particle Network - Com login](https://github.com/user-attachments/assets/bd1ab290-191e-4302-bf52-3e6e2246be2e)
 
 ## Como Usar
 
